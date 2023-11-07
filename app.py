@@ -68,7 +68,7 @@ def communicate():
 
 
 # ユーザーインターフェイスの構築
-st.title(" ☕喫茶 ランプ")
+st.image("01_rpg.png")
 st.image("05_rpg.png")
 st.write("あなたの恋愛の悩みを解決しましょう。行動回数が0になるまで何でも質問してください。")
 
